@@ -1,1 +1,0 @@
-# Tamil_Character_Recognition_From_Ancient_Inscription_Using_Deep_Learning_Algorithm
